@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "FFockstish",
+  "version": "1.0",
+
+  "description": "Detect cheat-like behaviour in realtime on chess.com",
+
+  "icons": {
+    "48": "icons/ffockstish-48.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.chess.com/*"],
+      "js": ["analyze.js"]
+    }
+  ]
+}
