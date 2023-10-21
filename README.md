@@ -1,6 +1,6 @@
 # ffockstish
 
-[foxstish logo](/images/logo.png)
+![foxstish logo](logo.png)
 
 > Cheating is lame. Cheaters are scum. If they spent as much time learning actual chess as you spend re-creating new accounts, lying to others, and avoiding the gaze of chess.com fair play team, then they would probably be a decent chess player in the 1-2000 rating range. But they aren't because their puny brains are addicted to farming ELO from innocents.
 
