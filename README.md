@@ -46,4 +46,4 @@ Thats the plan anyway. If I see any indicators this tool is used for cheating th
 
 You will need to download a zip of the source code locally and install it into FF manually. You can find instructions on how to do that elsewhere. I meant it when I said that you probably don't need this browser plugin.
 
-![foxstish icon](/icons/icon_250x250.png]
+![foxstish icon](icons/icon_250x250.png]
