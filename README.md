@@ -1,4 +1,4 @@
-# ffockstish
+# Foxstish
 
 ![foxstish logo](logo.png)
 
@@ -6,7 +6,7 @@
 
 _- Anon. - circa Oct 2023_
 
-**FFockstish** is a FireFox browser extension for running stocksfish analysis during _OTHER PEOPLES_ chess.com games to aid in cheat detection
+**Foxstish** is a FireFox browser extension for running stocksfish analysis during _OTHER PEOPLES_ chess.com games to aid in cheat detection
 You probably dont need this browser plugin. This extension violates chess.com's terms of service if you use it on your own games. So dont do that, because that is cheating. And cheating lowers your IQ and otherwise makes you unnattractive to just about anything with a pulse.
 
 The idea here is that you should be able to analyze another players games in realtime when trying to catch cheaters. Unfortunately, chess.com no longer provides a deep analysis facility during games. This actually makes sense, because when they _did_ provide it to everybody, it was the primary mechanism for low life cheaters. E.g. it would 100% give people with multiple accounts an edge over everyone else. It would also allow groups of people to gang up on others on a back channel (like a discord chat group).
@@ -45,3 +45,5 @@ Thats the plan anyway. If I see any indicators this tool is used for cheating th
 ** Once the source for this repo is ready I will remove this sentence. Until then, its not ready, so dont bother with lodging an issue because I'll just close them. **
 
 You will need to download a zip of the source code locally and install it into FF manually. You can find instructions on how to do that elsewhere. I meant it when I said that you probably don't need this browser plugin.
+
+![foxstish icon](/icons/icon_250x250.png]
