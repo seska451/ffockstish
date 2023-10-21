@@ -6,7 +6,8 @@
   "description": "Detect cheat-like behaviour in realtime on chess.com",
 
   "icons": {
-    "48": "icons/ffockstish-48.png"
+    "48": "icons/icon_48x48.png",
+    "96": "icons/icon_96x96.png"
   },
 
   "content_scripts": [
